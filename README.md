@@ -14,18 +14,18 @@ Then, put all of your images into `photos` directory. Example of file structure:
 
 ```
 ./photos/
-  +-- Album A
-  |     +-- Picture-1.jpg
-  |     +-- Picture-2.jpg
-  |     +-- ...
-  +-- Album B
-  |     +-- Picture-3.jpg
-  |     +-- Picture-4.jpg
-  |     +-- ...
-  +-- Picture-5.jpg
-  +-- Picture-6.jpg
-  +-- Picture-7.jpg
-  +-- ...
+    +-- Album A
+    |     +-- Picture-1.jpg
+    |     +-- Picture-2.jpg
+    |     +-- ...
+    +-- Album B
+    |     +-- Picture-3.jpg
+    |     +-- Picture-4.jpg
+    |     +-- ...
+    +-- Picture-5.jpg
+    +-- Picture-6.jpg
+    +-- Picture-7.jpg
+    +-- ...
 ```
 
 #### 3. Make `photos` directory writable
