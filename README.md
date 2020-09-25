@@ -13,18 +13,18 @@ Rename your image files properly as this will be used as image title. Recommende
 Then, put all of your images into `photos` directory. Example of file structure:
 
 ```
-./photos/
-    +-- Album A
-    |     +-- Picture-1.jpg
-    |     +-- Picture-2.jpg
+./photos                        (directory)
+    +-- Album A                 (directory)
+    |     +-- Picture-1.jpg     (file)
+    |     +-- Picture-2.jpg     (file)
     |     +-- ...
-    +-- Album B
-    |     +-- Picture-3.jpg
-    |     +-- Picture-4.jpg
+    +-- Album B                 (directory)
+    |     +-- Picture-3.jpg     (file)
+    |     +-- Picture-4.jpg     (file)
     |     +-- ...
-    +-- Picture-5.jpg
-    +-- Picture-6.jpg
-    +-- Picture-7.jpg
+    +-- Picture-5.jpg           (file)
+    +-- Picture-6.jpg           (file)
+    +-- Picture-7.jpg           (file)
     +-- ...
 ```
 
